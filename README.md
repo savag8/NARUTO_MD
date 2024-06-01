@@ -1,23 +1,23 @@
 <p align="center">  
-  <a href="https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j">
-    <img alt="wasi" height="300" src="https://telegra.ph/file/9f5aac1b37d65de4c725c.jpg">
-    <h1 align="center">WASI MD V2</h1>
+  <a href="https://whatsapp.com/channel/0029VaXvlWgFi8xjuqKPgP0T">
+    <img alt="Naruto" height="300" src="https://telegra.ph/file/7fd92190526d349f0c5e9.jpg">
+    <h1 align="center">NARUTO MD V2</h1>
   </a>
 </p>
 <p align="center">
-<a href="https://github.com/Itxxwasi"><img title="Author" src="https://img.shields.io/badge/Itxxwasi-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/923192173398"><img title="Author" src="https://img.shields.io/badge/CHAT US-black?style=for-the-badge&logo=whatsapp"></a>
+<a href="https://github.com/savag8"><img title="Author" src="https://img.shields.io/badge/Savage-black?style=for-the-badge&logo=Github"></a> <a href="https://whatsapp.com/channel/0029VaXvlWgFi8xjuqKPgP0T"><img title="Author" src="https://img.shields.io/badge/CHANNEL-black?style=for-the-badge&logo=whatsapp"></a> <a href="https://wa.me/263780858655"><img title="Author" src="https://img.shields.io/badge/CHAT WITH US-black?style=for-the-badge&logo=whatsapp"></a>
 <p/>
 <p align="center">
-<a href="https://github.com/Itxxwasi?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/Itxxwasi?label=Followers&style=social"></a>
-<a href="https://github.com/Itxxwasi/WASI-MD-V2/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/Itxxwasi/WASI-MD-V2?&style=social"></a>
-<a href="https://github.com/Itxxwasi/WASI-MD-V2/network/members"><img title="Fork" src="https://img.shields.io/github/forks/Itxxwasi/WASI-MD-V2?style=social"></a>
-<a href="https://github.com/Itxxwasi/WASI-MD-V2/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Itxxwasi/WASI-MD-V2?label=Watching&style=social"></a>
+<a href="https://github.com/savag8?tab=followers"><img title="Followers" src="https://img.shields.io/github/followers/savag8?label=Followers&style=social"></a>
+<a href="https://github.com/savag8/NARUTO_MD/stargazers/"><img title="Stars" src="https://img.shields.io/github/stars/savag8/NARUTO_MD?&style=social"></a>
+<a href="https://github.com/savag8/NARUTO_MD/network/members"><img title="Fork" src="https://img.shields.io/github/forks/savag8/NARUTO_MD?style=social"></a>
+<a href="https://github.com/savag8/NARUTO_MD/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/savag8/NARUTO_MD?label=Watching&style=social"></a>
 </p>
 
 ####  
-# My Awesome Project
+# My Amazing Project
 
-Welcome to my awesome project! Here you'll find...
+Welcome to my amazing project! Here you'll find...
 ## YouTube Channel
 
 Check out my YouTube channel for tutorials and more!
@@ -27,7 +27,7 @@ Check out my YouTube channel for tutorials and more!
 
 Join our WhatsApp channel for updates and discussions!
 
-[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VaDK8ZUDjiOhwFS1cP2j)
+[![WhatsApp Channel](https://img.shields.io/badge/Join-WhatsApp%20Channel-25D366?style=for-the-badge&logo=whatsapp)](https://whatsapp.com/channel/0029VaXvlWgFi8xjuqKPgP0T)
 ## WhatsApp Support Group
 
 Join our WhatsApp support group for assistance and discussions!
@@ -38,7 +38,7 @@ Join our WhatsApp support group for assistance and discussions!
 
 1.𝔽𝕠𝕣𝕜 𝕥𝕙𝕖 𝕣𝕖𝕡𝕠
     <br>
-<a href='https://github.com/Itxxwasi/WASI-MD-V2/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=green'/></a>
+<a href='https://github.com/savag8/NARUTO_MD/fork' target="_blank"><img alt='Fork repo' src='https://img.shields.io/badge/Fork Repo-100000?style=for-the-badge&logo=scan&logoColor=white&labelColor=black&color=green'/></a>
 
 
 
@@ -53,9 +53,9 @@ Join our WhatsApp support group for assistance and discussions!
 
 
 #### 𝕕𝕖𝕡𝕝𝕠𝕪𝕞𝕖𝕟𝕥 𝕤𝕖𝕔𝕥𝕚𝕠𝕟
-# <a href="https://dashboard.heroku.com/new?template=https://github.com/Itxxwasi/WASI-MD-V2"><img title="heroku" src="https://img.shields.io/badge/DEPLOY ON HEROKU-h?color=green&style=for-the-badge&logo=msi"></a>
+# <a href="https://dashboard.heroku.com/new?template=https://github.com/savag8/NARUTO_MD"><img title="heroku" src="https://img.shields.io/badge/DEPLOY ON HEROKU-h?color=green&style=for-the-badge&logo=msi"></a>
 # <a href="https://railway.app/template/tM2McB?referralCode=v7Xehd"><img title="railway" src="https://img.shields.io/badge/DEPLOY ON RAILWAY-h?color=green&style=for-the-badge&logo=msi"></a>
-# <a href="(https://replit.com/github/Itxxwasi/WASI-MD-V2"><img title="raplir" src="https://img.shields.io/badge/RAPLIT-h?color=green&style=for-the-badge&logo=msi"></a>
+# <a href="(https://replit.com/github/savag8/NARUTO_MD"><img title="raplir" src="https://img.shields.io/badge/RAPLIT-h?color=green&style=for-the-badge&logo=msi"></a>
 # <a href="https://wasimd-9dedcea2edba.herokuapp.com/"><img title="koyeb" src="https://img.shields.io/badge/DEPLOY ON KYOEB-h?color=green&style=for-the-badge&logo=msi"></a>
 ### 𝕋ℍ𝔸ℕ𝕂𝕊 𝕋𝕆
  [`ASTROPED FOR PLUGINS `](https://github.com/astroped)
