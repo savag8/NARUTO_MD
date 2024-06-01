@@ -1,15 +1,15 @@
 {
-  "name": "wasi-md-v2",
+  "name": "Naruto MD",
   "description": "Simple WhatsApp Bot",
-  "logo": "https://github.com/Itxxwasi/WASI-MD-V2/blob/main/lib/assets/logo.png?raw=true",
-  "keywords": ["WASI-MD-V2", "WASIV2", "WASI MD","WASI MD","wasi","wasitech"],
+  "logo": "https://github.com/savag8/NARUTO_MD/blob/main/lib/assets/logo.png?raw=true",
+  "keywords": ["NARUTO_MD", "NARUTOMD", "NARUTO MD","NARU MD","naruto","narutotech"],
   "success_url": "/",
   "stack": "container",
 
   "env": {
     "OWNER_NAME": {
       "description": "Name for Bot Owner",
-      "value": "𝐖𝐀𝐒𝐈-𝐓𝐄𝐂𝐇",
+      "value": "true",
       "required": true
     },
 
@@ -21,13 +21,13 @@
 
     "GOODBYE": {
       "description": "put 'false' or 'true' to enable & disable GOODBYE ",
-      "value": "false",
+      "value": "true",
       "required": false
     },
     "BOT_NAME": {
       "description": " NAME FOR BOT",
       "required": false,
-      "value": "𝐖𝐀𝐒𝐈-𝐌𝐃-𝐕2"
+      "value": "NARUTO_MD"
     },
     "TZ": {
       "description": "Put TIME_ZONE according to your location",
@@ -98,11 +98,11 @@
     },
     "MODE": {
       "description": "Worktype of your bot. Use public or private, if it is private then only bot number can use it. If public then everyone can use it.",
-      "value": "private"
+      "value": "public"
     },
     "PACK_NAME": {
       "description": "Put Sticker Pack_Name.",
-      "value": "WASI",
+      "value": "NARUTO",
       "required": false
     },
     "PACK_AUTHER": {
